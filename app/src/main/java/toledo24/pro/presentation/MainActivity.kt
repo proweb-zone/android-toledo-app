@@ -12,7 +12,7 @@ import androidx.navigation.ui.setupWithNavController
 import toledo24.pro.R
 import toledo24.pro.databinding.ActivityMainBinding
 
-
+//
 class MainActivity: AppCompatActivity() {
 
     lateinit var binding: ActivityMainBinding
